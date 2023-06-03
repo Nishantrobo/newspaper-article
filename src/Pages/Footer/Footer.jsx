@@ -10,8 +10,7 @@ const Footer = () => {
         <div className={styles["footerContent"]}>
           <h3 className={styles["gym"]}>GYM</h3>
           <p>
-            Welcome to our gym! We are dedicated to helping you achieve your
-            fitness.
+            Welcome to our website! We are dedicated to give you real articles.
           </p>
           <div className={styles["social-media-icons"]}>
             <a
@@ -43,28 +42,28 @@ const Footer = () => {
         <div className={styles["footerContent1"]}>
           <h3 className={styles["healthy"]}>Healthy living</h3>
           <ul>
-            <li>Regular exercise</li>
-            <li>Proper nutrition</li>
-            <li>Professional guidance</li>
-            <li>Clean and safe environment</li>
+            <li>Regular news</li>
+            <li>Proper articles</li>
+            <li>Professional opinion</li>
+            <li>Clean and curated articles</li>
           </ul>
         </div>
         <div className={styles["footerSomething"]}>
           <h3 className={styles["sty"]}>Services</h3>
           <ul>
-            <li>Exercise equipment </li>
-            <li>Personal training</li>
-            <li>Childcare services</li>
-            <li>Group fitness classes</li>
+            <li>many areas </li>
+            <li>Personal opinion</li>
+            <li>Clean and curated articles</li>
+            <li>Clean and curated articles</li>
           </ul>
         </div>
         <div className={styles["footeProgram"]}>
           <h3 className={styles["last"]}>Programs</h3>
           <ul>
-            <li>Wellness Programs</li>
-            <li>Specialty Programs</li>
-            <li>Functional Fitness</li>
-            <li>Cardiovascular Training</li>
+            <li>nsihant</li>
+            <li>nishant</li>
+            <li>nishant</li>
+            <li>nishant</li>
           </ul>
         </div>
       </div>

@@ -29,32 +29,33 @@ export default function TrainingProgram() {
     {
       id: 1,
       image: "./images/wall2.jpg",
-      heading: "Bodybuilding",
+      heading: "heading1",
     },
     {
       id: 2,
-      image: "https://c4.wallpaperflare.com/wallpaper/420/477/268/trees-palm-trees-girls-yoga-wallpaper-preview.jpg",
-      heading: "Yoga",
+      image: "https://images.pexels.com/photos/1438190/pexels-photo-1438190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      //https://c4.wallpaperflare.com/wallpaper/420/477/268/trees-palm-trees-girls-yoga-wallpaper-preview.jpg
+      heading: "heading 2",
     },
     {
       id: 3,
-      image: "https://c4.wallpaperflare.com/wallpaper/1017/46/488/group-fitness-class-located-step-wallpaper-preview.jpg",
-      heading: "Aerobic",
+      image: "https://images.pexels.com/photos/13035736/pexels-photo-13035736.jpeg?auto=compress&cs=tinysrgb&w=600",
+      heading: "heading 3",
     },
     {
       id: 4,
-      image: "https://c1.wallpaperflare.com/preview/327/472/938/stretch-exercise-leggings-woman.jpg",
-      heading: "Flexiblity",
+      image: "https://images.pexels.com/photos/13739930/pexels-photo-13739930.jpeg?auto=compress&cs=tinysrgb&w=600",
+      heading: "heading 4",
     },
     {
       id: 5,
-      image: "https://c1.wallpaperflare.com/preview/323/639/674/zumba-dance-gymnastics.jpg",
-      heading: "Zumba Dance",
+      image: "https://images.pexels.com/photos/9006566/pexels-photo-9006566.jpeg?auto=compress&cs=tinysrgb&w=600",
+      heading: "heading 5",
     },
     {
       id: 6,
-      image: "https://images.unsplash.com/photo-1508215885820-4585e56135c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      heading: "Weight Liffting",
+      image: "https://images.pexels.com/photos/8060237/pexels-photo-8060237.jpeg?auto=compress&cs=tinysrgb&w=600",
+      heading: "heading 6",
     }
   ];
 
@@ -64,7 +65,7 @@ export default function TrainingProgram() {
 
   return (
     <div id="Program">
-      <h1 className={styles.cardsHeading}>Training Program</h1>
+      <h1 className={styles.cardsHeading}>Articles</h1>
       <Carousel  showDots={true} responsive={responsive}>{data}</Carousel>
     </div>
   );

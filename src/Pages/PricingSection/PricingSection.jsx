@@ -33,7 +33,7 @@ function PricingSection() {
                   <span>
                     <VscCheck />
                   </span>
-                  Free Gym Access
+                  Free Article Access 
                 </li>
                 <br></br>
                 <li>
@@ -51,11 +51,11 @@ function PricingSection() {
 
           <div className={styles.monthlyPlans} id="monthly">
             <div className={styles.header}>
-              <h3>Months to Month</h3>
+              <h3>Week to Week </h3>
               <span>
-                <h1>$90</h1>
+                <h1>$30</h1>
               </span>
-              <h3>/Month</h3>
+              <h3>/week</h3>
             </div>
             <div className={styles.featuresPlans} id="features">
               <ul className={styles.greenarrowbullet}>
@@ -63,7 +63,7 @@ function PricingSection() {
                   <span>
                     <VscCheck />
                   </span>
-                  $99 Joining Fee
+                  $30 Joining Fee
                 </li>
                 <br></br>
                 <li>
@@ -77,21 +77,21 @@ function PricingSection() {
                   <span>
                     <VscCheck />
                   </span>
-                  Free Gym Access
+                  Free Article access
                 </li>
                 <br></br>
                 <li>
                   <span>
                     <VscCheck />
                   </span>
-                  1 Group Class Included
+                  Can download articles offline
                 </li>
                 <br></br>
                 <li>
                   <span>
                     <VscCheck />
                   </span>
-                  24 Hour Accces
+                  can share article anywhere
                 </li>
                 <br></br>
               </ul>
@@ -111,11 +111,11 @@ function PricingSection() {
             </div>
 
             <div className={styles.memberHeading}>
-              <h2 className={styles.membershiph2}>From Punch Pass to Monthly or Annual</h2>
+              <h2 className={styles.membershiph2}>From Punch Pass to weekly or monthly</h2>
               <p>
-                At gym base ,we offer a wide range of membership with options to
+                On this webiste ,we offer a wide range of membership with options to
                 suit every budget. Everything from One Day Pass, Punch Pass to
-                Monthly Pass or Annual prepaid memberships. What's more, we
+                weekly or mnonthly prepaid memberships. What's more, we
                 won't tie you in a long term Conatract, giving you a greater
                 flexibilty.
               </p>
@@ -128,14 +128,14 @@ function PricingSection() {
                   <span>
                     <CgArrowLongRight />
                   </span>
-                  The best Equipments Global Brands{" "}
+                  The best article on Global Brands{" "}
                 </li>
                 <br></br>
                 <li>
                   <span>
                     <CgArrowLongRight />
                   </span>
-                  The gym is open 24hours a day a week
+                  You can download any articles .
                 </li>
                 <br></br>
                 <li>
@@ -149,7 +149,7 @@ function PricingSection() {
                   <span>
                     <CgArrowLongRight />
                   </span>
-                  Group fitness classes in the price of subscription{" "}
+                  Best article in the price of subscription{" "}
                 </li>
                 <br></br>
                 <li>

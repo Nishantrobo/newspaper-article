@@ -84,7 +84,7 @@ const Login = () => {
 
   return (
     <div className={styles.loginMian}>
-     <img className={styles.sideimg} src="https://c0.wallpaperflare.com/preview/722/933/115/active-adult-athlete-biceps.jpg" alt="demo"  />
+     <img className={styles.sideimg} src="https://images.pexels.com/photos/3483786/pexels-photo-3483786.jpeg?auto=compress&cs=tinysrgb&w=600" alt="demo"  />
     
        
         <form className={styles.loginContainer} onSubmit={handlesubmit}>

@@ -33,9 +33,9 @@ export default function Navbar() {
           <li>
             <a href="#Program">Program</a>
           </li>
-          <li>
-            <a href="#Trainer">Trainer</a>
-          </li>
+          {/* <li>
+            <a href="#Trainer">Specs</a>
+          </li> */}
           <li>
             <a href="#pricing">Pricing</a>
           </li>

@@ -9,7 +9,7 @@ export default function About() {
           <iframe
             width="360"
             height="515"
-            src="https://www.youtube.com/embed/X_9VoqR5ojM"
+            src="https://www.youtube.com/embed/4n1U8sHvIyA"
             title="YouTube video player"
             // frameborder="0"
             // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -19,7 +19,7 @@ export default function About() {
         <div className={Styles.ContainerHeading}>
           <h1 className={Styles.aboutHeading}>About Us</h1>
           <p>
-            Through our 7-day programme we offer you some useful life questions
+            Through our 7-day programme we offer you some useful life questions and curated articles 
             to think about. We also offer you some answers on these questions
             but we encourage you to learn more about it yourself. You can read
             it all at once but we advise you to read and think about your life
@@ -37,22 +37,18 @@ export default function About() {
             <ul className={Styles.listContainer}>
               <li>
                 <strong className={Styles.strong}>
-                  Consultation with expert
+                  Consultation with  subject expert
                 </strong>
                 <p>
-                  Plus Fitness franchisee Jacob Awad first started his journey
-                  with the brand in 2013 after purchasing Plus Fitness Seven
-                  Hills from a previous owner. In 2017 Jacob then went on to
-                  purchase his second location, Plus Fitness Northmead.
+                 on subscribing this article you can get hand curated articles on many topics whether it may be on latest news or be it any books.
+                 you can read any article within 200 words and also you can fact check any article by our unique system .
                 </p>
               </li>
               <li>
-                <strong className={Styles.strong}> workout faculitis</strong>
+                <strong className={Styles.strong}> other features</strong>
                 <p>
-                  Plus Fitness franchisee Jacob Awad first started his journey
-                  with the brand in 2013 after purchasing Plus Fitness Seven
-                  Hills from a previous owner. In 2017 Jacob then went on to
-                  purchase his second location, Plus Fitness Northmead.
+                on subscribing this article you can get hand curated articles on many topics whether it may be on latest news or be it any books.
+                 you can read any article within 200 words and also you can fact check any article by our unique system .
                 </p>
               </li>
             </ul>
@@ -62,10 +58,10 @@ export default function About() {
             <iframe
               width="360"
               height="515"
-              src="https://www.youtube.com/embed/Y5RtQ4cawVk"
+              src="https://youtube.com/embed/Ju0WT32Czcg"
               title="YouTube video player"
               // frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              // allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen={true}
             ></iframe>
           </div>
